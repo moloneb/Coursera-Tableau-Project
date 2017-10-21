@@ -1,0 +1,38 @@
+QuestionID,DataValueType,DataValueUnit,Question
+NPAW1_1,Crude Prevalence,%,Obesity among adults aged >= 18 years
+NPAW1_2,Crude Prevalence,%,Obesity among high school students
+NPAW10_0,Crude Prevalence,%,No leisure-time physical activity among adults aged >= 18 years
+NPAW11_1,Crude Prevalence,%,Meeting aerobic physical activity guidelines for substantial health benefits among adults aged >= 18 years
+NPAW11_2,Crude Prevalence,%,Meeting aerobic physical activity guidelines for substantial health benefits and for muscle-strengthening activity among adults aged >= 18 years
+NPAW11_3,Crude Prevalence,%,Meeting aerobic physical activity guidelines for additional and more extensive health benefits among adults aged >= 18 years
+NPAW11_4,Crude Prevalence,%,Meeting aerobic physical activity guidelines among high school students
+NPAW12_1,Crude Prevalence,%,Participation in daily school physical education classes among high school students
+NPAW12_2,Crude Prevalence,%,Soda consumption among high school students
+NPAW13_1,Percent,%,Secondary schools that allow community-sponsored use of physical activity facilities by youth outside of normal school hours
+NPAW13_2,Percent,%,Secondary schools that allow students to purchase soda or fruit drinks
+NPAW13_3,Percent,%,Secondary schools that allow students to purchase sports drinks
+NPAW13_4,Percent,%,Secondary schools that offer less healthy foods as competitive foods
+NPAW14_0,Yes/No,(blank),Presence of regulations pertaining to screen time in early care and education settings
+NPAW15_0,Crude Prevalence,%,Infants breastfed at 6 months
+NPAW16_0,Crude Prevalence,%,Receiving formula supplementation within the first 2 days of life among breastfed infants
+NPAW17_0,Mean,Number ,Mean maternity practices in infant nutrition care (mPINC) score
+NPAW18_0,Percent,%,Live births occurring at Baby Friendly Facilities
+NPAW19_0,Yes/No,(blank),State child care regulation supports onsite breastfeeding
+NPAW2_1,Crude Prevalence,%,Overweight or obesity among adults aged >= 18 years
+NPAW2_2,Crude Prevalence,%,Overweight or obesity among high school students
+NPAW2_3,Crude Prevalence,%,Overweight or obesity among women aged 18-44 years
+NPAW20_0,Crude Prevalence,%,Television viewing among high school students
+NPAW21_0,Crude Prevalence,%,Computer use among high school students
+NPAW22_0,Yes/No,(blank),Presence of regulations pertaining to avoiding sugar in early care and education settings
+NPAW3_1,Crude Prevalence,%,Healthy weight among adults aged >= 18 years
+NPAW3_2,Crude Prevalence,%,Healthy weight among high school students
+NPAW4_1,Median,Number,Median daily frequency of fruit consumption among high school students
+NPAW4_2,Median,Number,Median daily frequency of fruit consumption among adults aged >= 18 years
+NPAW5_1,Median,Number,Median daily frequency of vegetable consumption among high school students
+NPAW5_2,Median,Number,Median daily frequency of vegetable consumption among adults aged >= 18 years
+NPAW6_0,Percent,%,Census tracts with healthier food retailers within ½ mile of boundary
+NPAW7_1,Percent,%,Farmers markets that accept Women and Infant Children (WIC) farmers market nutrition program coupons
+NPAW7_2,Percent,%,Farmers markets that accept Supplemental Nutrition Assistance Program (SNAP) benefits
+NPAW8_0,Number,"per 100,000 residents","Number of farmers markets per 100,000 residents"
+NPAW9_1,Yes/No,(blank),Presence of regulations pertaining to serving fruit in early care and education settings
+NPAW9_2,Yes/No,(blank),Presence of regulations pertaining to serving vegetables in early care and education settings
